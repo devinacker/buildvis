@@ -1,0 +1,3 @@
+This is just a Build engine counterpart of dmvis I slapped together.
+
+Only works on single maps (no .grp) right now. Also the sector drawing order is not always very coherent, but oh well.

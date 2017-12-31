@@ -1,0 +1,4 @@
+*.map
+*.gif
+*.pyc
+__pycache__
